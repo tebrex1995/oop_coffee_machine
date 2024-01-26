@@ -21,3 +21,4 @@ while is_on:
         if money.make_payment(drink.cost) and coffee.is_resource_sufficient(drink):
             coffee.make_coffee(drink)
 
+
